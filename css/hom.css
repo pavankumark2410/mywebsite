@@ -1,0 +1,66 @@
+body
+{
+	background-color: orangered;
+}
+#cont{
+z-index: 4;
+}
+#maincon
+{
+	background-color: white;
+	font-family: cursive;
+	font-size: 20px;
+}
+#title
+{
+	font-size: 30px;
+	text-align: center;
+	font-family: cursive;
+	color: white;
+}
+#tabledata
+{
+	align-content: center;
+	border: 100%;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto; 
+}
+.cont2
+{
+z-index: 3;
+}
+.con
+{
+width: 100%;
+}
+.row
+{
+	padding-left: 20px;
+}
+#trans
+{
+	color: black;
+}
+.col-3
+{
+	color: white;
+}
+#trans:hover
+{
+	color: red;
+}
+#trans:focus
+{
+	color: white;
+}
+#myintro
+{  width: 100%;
+}
+#stage1,#stage2,#stage3,#type1,#type2
+{
+	display: none;
+}
+
